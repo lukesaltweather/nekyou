@@ -4,5 +4,14 @@
   "artist": "Tsuzura Ryou",
   "author": "Aoi Sekina",
   "cover": "https://mangadex.org/covers/e31b62b8-68ec-4bb6-bf7e-33db5be5e0b0/a0f4983f-0a0c-452e-af01-af16c115fc31.jpg",
-  "chapters": {}
+  "chapters": {
+    "4": {
+      "title": "4",
+      "volume": "",
+      "last_updated": "1681047601",
+      "groups": {
+        "Nekyou, Haraguro Scanlations": "/proxy/api/imgur/chapter/PBBECnk"
+      }
+    }
+  }
 }
